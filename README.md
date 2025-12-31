@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Cloud DevOps Engineer who is goal oriented, people focused, and constantly striving to improve. I am currently enrolled in an extensive 24 week program with Level Up In Tech where I will build and improve skills in the following: AWS, Linux, Python, Infrastructur as Code, Orchestration, Containerization, Kubernetes, Terraform, CI/CD, and Source Control. 
+I am a IT Specialist who is goal oriented, people focused, and constantly striving to improve. I've completed an extensive 24 week program with Level Up In Tech where I will build and improve skills in the following: AWS, Linux, Python, Infrastructur as Code, Orchestration, Containerization, Kubernetes, Terraform, CI/CD, and Source Control. 
 
 Find out more about me & feel free to connect with me here:
 
